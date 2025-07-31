@@ -23,7 +23,9 @@ Software: Siemens NX9 was used for related CAD/CAM tasks.
 The optimal parameter combination for minimizing surface roughness was determined to be:
 
 Speed: 6000 rpm
+
 Feed: 240 mm/min
+
 Depth of Cut: 0.2 mm
 
 The analysis concluded that feed rate was the most significant factor influencing the final surface quality.
